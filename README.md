@@ -1,0 +1,2 @@
+# basic
+Inceput 01
